@@ -1,0 +1,2 @@
+# hazel
+Home automation project
